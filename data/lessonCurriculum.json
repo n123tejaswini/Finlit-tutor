@@ -1,0 +1,20 @@
+[
+  {
+    "id": "budgeting-101",
+    "title": "Budgeting Basics",
+    "description": "Learn the 50-30-20 rule and monthly expense planning.",
+    "xpReward": 50
+  },
+  {
+    "id": "credit-score",
+    "title": "Credit Score Fundamentals",
+    "description": "Understand factors that impact your CIBIL score.",
+    "xpReward": 60
+  },
+  {
+    "id": "investing-start",
+    "title": "Starting Investments",
+    "description": "Explore SIPs, compounding, and risk-return basics.",
+    "xpReward": 80
+  }
+]

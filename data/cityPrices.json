@@ -1,0 +1,20 @@
+{
+  "Bengaluru": {
+    "rent_1bhk": 22000,
+    "milk_litre": 62,
+    "rice_kg": 58,
+    "internet_monthly": 900
+  },
+  "Mumbai": {
+    "rent_1bhk": 33000,
+    "milk_litre": 66,
+    "rice_kg": 62,
+    "internet_monthly": 950
+  },
+  "Delhi": {
+    "rent_1bhk": 25000,
+    "milk_litre": 60,
+    "rice_kg": 55,
+    "internet_monthly": 850
+  }
+}
